@@ -1,4 +1,11 @@
-def devil():
+def poem():
     print("Little mermaid")
 
-devil()
+poem()
+
+
+def small():
+    print("Snall mermaid")
+
+small()
+
