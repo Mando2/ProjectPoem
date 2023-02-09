@@ -1,4 +1,4 @@
-def poem():
+def devil():
     print("Little mermaid")
 
-poem()
+devil()
